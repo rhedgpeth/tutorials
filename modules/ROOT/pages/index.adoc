@@ -1,0 +1,77 @@
+= Welcome to the Couchbase Tutorials Site!
+:page-layout: home
+:!sectids:
+
+The new documentation site, now in Beta, is a huge leap forward in our content strategy.
+As we work out the kinks, we'd love to get your feedback on what we're doing well, and what we could be doing better.
+To let us know, please use the btn:[Feedback?] button at the bottom-right corner of any page, or send an email to docs@couchbase.com.
+We look forward to hearing from you!
+
+[.hint]
+Looking for the old documentation site?
+You can find it over at the https://developer.couchbase.com[Developer Portal].
+
+[.cards.cards-4.personas.conceal-title]
+== {empty}
+
+[.card]
+=== N/A
+
+N/A
+
+
+
+[.card]
+=== Travel Sample
+
+The application allows users to find flights by entering airports and travel dates. For the airport entries, the app uses a N1QL query bound to an Angular typeahead directive to suggest airport names based on the first few letters entered.
+
+* xref:nodejs-sdk::sample-application.adoc[Node.js]
+* xref:java-sdk::sample-application.adoc[Java]
+* xref:c-sdk::sample-application.adoc[C]
+* xref:dotnet-sdk::sample-application.adoc[.NET]
+* xref:php-sdk::sample-application.adoc[PHP]
+* xref:python-sdk::sample-application.adoc[Python]
+
+[.card]
+=== Mobile Travel Sample
+
+An in-depth tutorial that demonstrates key end-to-end Couchbase Mobile 2.0 capabilities for iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app will allow users to search for and to make flight reservations Shared bucket access is enabled to allow web and mobile clients to perform the same operations on the bucket.
+
+* http://docs.couchbase.com/tutorials/travel-sample/develop/swift/[iOS]
+* http://docs.couchbase.com/tutorials/travel-sample/develop/swift/[Android]
+* http://docs.couchbase.com/tutorials/travel-sample/develop/swift/[.NET]
+
+
+[.tiles.browse]
+== Browse Tutorials
+
+[.tile]
+.Couchbase Server
+* xref:server:getting-started:try-a-query.adoc[Try a N1QL Query]
+* xref:server:fts:full-text-intro.adoc[Full Text Search]
+* xref:server:analytics:primer-beer.adoc[Analytics (Developer Preview)]
+* xref:server:eventing:eventing-examples.adoc[Eventing]
+* xref:server:sdk:overview.adoc[SDKs]
+
+[.tile]
+.Couchbase Mobile
+* xref:tutorials:hotel-finder:ios.adoc[React Native Modules]
+* xref:tutorials:todo-app:introduction.adoc[ToDo App (1.x)]
+* https://github.com/couchbaselabs/couchbase-lite-ios-api-playground[Swift Playground]
+* https://docs.couchbase.com/tutorials/userprofile-couchbase-mobile/standalone/userprofile/userprofile_basic.html[CRUD/Sync/Query]
+* https://docs.couchbase.com/tutorials/universitylister-android/livequery_recyclerview.html[University Lister]
+
+[.tile]
+.Couchbase Cloud
+* xref:operator::demo.adoc[Deployment Tutorial]
+
+[.tile]
+.SDKs
+* xref:nodejs-sdk::sample-application.adoc[Node.js]
+* Java
+* Go
+* PHP
+* Python
+* C
+* .NET
