@@ -38,7 +38,7 @@ The application allows users to find flights by entering airports and travel dat
 
 An in-depth tutorial that demonstrates key end-to-end Couchbase Mobile 2.0 capabilities for iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app will allow users to search for and to make flight reservations Shared bucket access is enabled to allow web and mobile clients to perform the same operations on the bucket.
 
-* http://docs.couchbase.com/tutorials/travel-sample/develop/swift/[iOS]
+* xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[iOS]
 * http://docs.couchbase.com/tutorials/travel-sample/develop/swift/[Android]
 * http://docs.couchbase.com/tutorials/travel-sample/develop/swift/[.NET]
 
