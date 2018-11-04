@@ -8,6 +8,9 @@
 .Mobile Travel Sample
 include::mobile-travel-sample:partial$nav.adoc[]
 
+.ToDo App
+include::todo-app:partial$nav.adoc[]
+
 .Other tutorials
 * Hotel Finder
 ** xref:tutorials:hotel-finder:ios.adoc[iOS]
