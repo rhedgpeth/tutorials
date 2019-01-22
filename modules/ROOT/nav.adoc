@@ -1,21 +1,14 @@
-.Couchbase Operator
-* xref:operator::demo.adoc[Deployment Tutorial]
-
-.Travel Sample
-* xref:nodejs-sdk::sample-application.adoc[Node.js]
-* xref:c-sdk::sample-application.adoc[C]
-
-.Mobile Travel Sample
+.Couchbase Lite and Sync Gateway 2.x Tutorial
 include::mobile-travel-sample:partial$nav.adoc[]
 
-.ToDo App
-include::todo-app:partial$nav.adoc[]
+.Recycler Views with Live Queries in Couchbase Lite
+include::university-lister:partial$nav.adoc[]
 
-.Other tutorials
-* Hotel Finder
-** xref:tutorials:hotel-finder:ios.adoc[iOS]
-** xref:tutorials:hotel-finder:android.adoc[Android]
-* Hotel Lister
-** xref:tutorials:hotel-lister:ios.adoc[iOS]
-** xref:tutorials:hotel-lister:android.adoc[Android]
-* https://docs.couchbase.com/tutorials/universitylister-android/livequery_recyclerview.html[University Lister]
+.Build a Cordova Plugin for Couchbase Lite
+include::hotel-lister:partial$nav.adoc[]
+
+.Build a React Native Module with Couchbase Lite
+include::hotel-finder:partial$nav.adoc[]
+
+.Couchbase Lite 1.x Tutorial
+include::todo-app:partial$nav.adoc[]
