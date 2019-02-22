@@ -1,3 +1,6 @@
+. Using Couchbase Server as a Session Storage
+include::session-storage:partial$nav.adoc[]
+
 .Couchbase Lite and Sync Gateway 2.x Tutorial
 include::mobile-travel-sample:partial$nav.adoc[]
 
