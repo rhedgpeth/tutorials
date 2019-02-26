@@ -51,6 +51,8 @@ You will learn how to read, write session data and query session data with N1QL 
 
 ====== Languages
 * C#
+* ASP.NET
+* ASP.NET Core
 
 [.metadata]
 === Intermediate
