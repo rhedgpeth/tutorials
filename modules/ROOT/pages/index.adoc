@@ -83,7 +83,7 @@ xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
 * Swift
 
 [.metadata]
-=== Intermediate
+=== Beginner
 
 [.developer]
 == Mobile Developer
@@ -109,7 +109,7 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 * Java
 
 [.metadata]
-=== Beginners
+=== Beginner
 
 [.developer]
 == Mobile Developer
@@ -134,7 +134,7 @@ xref:tutorials:hotel-finder:android.adoc[Java]
 * N/A
 
 [.metadata]
-=== Beginners
+=== Beginner
 
 [.developer]
 == Mobile Developer
@@ -163,7 +163,7 @@ xref:tutorials:todo-app:develop/java/create-database.adoc[Java]
 * Java
 
 [.metadata]
-=== Beginners
+=== Beginner
 
 [.developer]
 == Mobile Developer
@@ -184,4 +184,4 @@ This tutorial will demonstrate how you can use Couchbase Lite as a data source f
 * Java
 
 [.metadata]
-=== Beginners
+=== Beginner
