@@ -61,6 +61,34 @@ You will learn how to read, write session data and query session data with N1QL 
 == Mobile Developer
 
 [.title]
+=== xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[User Profile Sample]
+
+[.content]
+
+[.summary]
+This tutorial will walk you through a simple iOS app that will demonstrate how you can use Couchbase Lite 2.0 as a standalone, embedded data store within your iOS App. You will learn the fundamentals of Database Operations and Document CRUD Operations.
+[.links]
+xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]
+xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]
+xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
+
+===== {empty}
+
+====== Components
+* Server 5.5
+* Lite 2.1
+* Sync Gateway 2.1
+
+====== Languages
+* Swift
+
+[.metadata]
+=== Intermediate
+
+[.developer]
+== Mobile Developer
+
+[.title]
 === Building a Cordova Plugin
 
 ==== {empty}
