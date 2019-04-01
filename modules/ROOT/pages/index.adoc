@@ -66,7 +66,10 @@ You will learn how to read, write session data and query session data with N1QL 
 [.content]
 
 [.summary]
-This tutorial will walk you through a simple iOS app that will demonstrate how you can use Couchbase Lite 2.0 as a standalone, embedded data store within your iOS App. You will learn the fundamentals of Database Operations and Document CRUD Operations.
+The series of tutorials demonstrate the core functionality of Couchbase Mobile 2.x using an iOS app. 
+The "Standalone" tutorial demonstrates the use of Couchbase Lite as a standalone, embedded data store and the fundamentals of Database Operations and CRUD. 
+The "Query" tutorial extends the "Standalone" tutorial and demonstrates querying capabilities within Couchbase Lite.
+The "Sync" tutorial demonstrates use of Couchbase Sync Gateway for data sync between Couchbase Lite clients
 [.links]
 xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]
 xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]
