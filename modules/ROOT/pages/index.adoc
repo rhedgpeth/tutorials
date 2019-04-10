@@ -9,7 +9,7 @@
 [.title]
 === xref:tutorials:mobile-travel-sample:introduction.adoc[Travel Sample Mobile]
 
-[.content]
+==== {empty}
 
 [.summary]
 An in-depth tutorial that demonstrates key end-to-end Couchbase Mobile 2.0 capabilities for iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app will allow users to search for and to make flight reservations Shared bucket access is enabled to allow web and mobile clients to perform the same operations on the bucket.
@@ -64,7 +64,7 @@ xref:tutorials:session-storage:java.adoc[Java]
 [.title]
 === xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[User Profile Sample]
 
-[.content]
+==== {empty}
 
 [.summary]
 The series of tutorials demonstrate the core functionality of Couchbase Mobile 2.x using an iOS app. 
