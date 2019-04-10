@@ -1,6 +1,8 @@
 .Couchbase Server
 * Session Storage
 include::session-storage:partial$nav.adoc[]
+* User Profile Storage
+include::profile-store:partial$nav.adoc[]
 
 .Couchbase Mobile
 * Travel Sample
