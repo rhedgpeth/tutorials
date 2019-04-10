@@ -188,3 +188,53 @@ This tutorial will demonstrate how you can use Couchbase Lite as a data source f
 
 [.metadata]
 === Beginner
+
+
+
+[.developer]
+== Developer
+
+[.title]
+=== xref:tutorials:session-storage:java.adoc[Using Couchbase Server as a Session Store]
+
+[.content]
+
+[.summary]
+An in-depth tutorial that demonstrates how to use Couchbase Server for session storage using Java and Spring.
+You will learn how to read, write session data and query session data with N1QL for business insights.
+
+===== {empty}
+
+====== Components
+* Server 6.0
+
+====== Languages
+* Java
+
+[.metadata]
+=== Beginner
+
+
+[.developer]
+== Developer
+
+[.title]
+=== xref:tutorials:profile-store:java.adoc[Using Couchbase Server to Build a User Profile Store]
+
+[.content]
+
+[.summary]
+An compreensive tutorial that demonstrates how to use Couchbase Server, Spring Data, Full-Text Search and Cross Data Center Replication (XDCR) to build a production-grade User Profile Store microservice.
+
+===== {empty}
+
+====== Components
+* Server 6.0
+* Full-Text Search
+* Cross Data Center Replication (XDCR)
+
+====== Languages
+* Java
+
+[.metadata]
+=== Beginner
