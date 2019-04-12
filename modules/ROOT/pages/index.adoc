@@ -36,11 +36,11 @@ xref:tutorials:mobile-travel-sample:java/design/data-modeling.adoc[Java]
 == Developer
 
 [.title]
-=== xref:tutorials:session-storage:install.adoc[Using Couchbase Server as a Session Stores]
+=== xref:tutorials:session-storage:install.adoc[Using Couchbase Server as a Session Store]
 
 ==== {empty}
 [.summary]
-An in-depth tutorial that demonstrates how to use Couchbase Server for session storage with ASP.NET Core.
+An in-depth tutorial that demonstrates how to use Couchbase Server for session storage.
 You will learn how to read, write session data and query session data with N1QL for business insights.
 [.links]
 xref:tutorials:session-storage:aspnet.adoc[ASP.NET Core]
