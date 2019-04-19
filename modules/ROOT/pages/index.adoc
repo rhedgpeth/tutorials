@@ -144,35 +144,6 @@ xref:tutorials:hotel-finder:android.adoc[Java]
 == Mobile Developer
 
 [.title]
-=== xref:tutorials:todo-app:introduction.adoc[ToDo App]
-
-==== {empty}
-[.summary]
-This simple ToDo List application is built with Couchbase Lite 2.0 for iOS, Android, UWP and Xamarin (iOS, Android) platforms.
-Users can authenticate, create lists with tasks.
-Each task can have an optional blob (image) attached to it.
-Lists can be shared with multiple users.
-[.links]
-xref:tutorials:todo-app:develop/swift/create-database.adoc[Swift]
-xref:tutorials:todo-app:develop/java/create-database.adoc[Java]
-
-===== {empty}
-
-====== Components
-* Sync Gateway 1.5
-* Couchbase Lite 1.4
-
-====== Languages
-* Swift
-* Java
-
-[.metadata]
-=== Beginner
-
-[.developer]
-== Mobile Developer
-
-[.title]
 === xref:tutorials:university-lister:android.adoc[Recycler Views with Live Queries]
 
 ==== {empty}
