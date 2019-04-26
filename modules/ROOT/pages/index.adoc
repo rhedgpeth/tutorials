@@ -62,19 +62,28 @@ xref:tutorials:session-storage:java.adoc[Java]
 == Mobile Developer
 
 [.title]
-=== xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[User Profile Sample]
+=== User Profile Sample
 
 ==== {empty}
 
 [.summary]
-The series of tutorials demonstrate the core functionality of Couchbase Mobile 2.x using an iOS app. 
+The series of tutorials demonstrate the core functionality of Couchbase Mobile 2.x using an iOS, Android, or UWP app. 
 The "Standalone" tutorial demonstrates the use of Couchbase Lite as a standalone, embedded data store and the fundamentals of Database Operations and CRUD. 
 The "Query" tutorial extends the "Standalone" tutorial and demonstrates querying capabilities within Couchbase Lite.
 The "Sync" tutorial demonstrates use of Couchbase Sync Gateway for data sync between Couchbase Lite clients
+
+==== iOS
+
 [.links]
 xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]
 xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]
 xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
+
+==== Xamarin
+
+[.links]
+xref:standalone@userprofile-couchbase-mobile-xamarin:userprofile:xamarin/userprofile_basic.adoc[Standalone]
+xref:query@userprofile-couchbase-mobile-xamarin:userprofile:xamarin/userprofile_query.adoc[Query]
 
 ===== {empty}
 
@@ -85,6 +94,7 @@ xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
 
 ====== Languages
 * Swift
+* C#
 
 [.metadata]
 === Beginner
