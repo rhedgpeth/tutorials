@@ -198,6 +198,7 @@ xref:tutorials:profile-store:java.adoc[Java]
 
 [.summary]
 A Xcode Playground to demonstrate and explore the Query interface in Couchbase Lite 2.0. While the playground demonstrates the queries in swift, given the unified nature of the QueryBuilder API, you should be able to easily translate the queries to any of the other platform languages supported on Couchbase Lite.
+
 ===== {empty}
 
 ====== Components
