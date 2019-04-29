@@ -71,20 +71,14 @@ The series of tutorials demonstrate the core functionality of Couchbase Mobile 2
 The "Standalone" tutorial demonstrates the use of Couchbase Lite as a standalone, embedded data store and the fundamentals of Database Operations and CRUD. 
 The "Query" tutorial extends the "Standalone" tutorial and demonstrates querying capabilities within Couchbase Lite.
 The "Sync" tutorial demonstrates use of Couchbase Sync Gateway for data sync between Couchbase Lite clients
-
-==== iOS
-
 [.links]
-xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]
-xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]
-xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
-xref:backgroundfetch@userprofile-couchbase-mobile:userprofile:background-fetch.adoc[Background fetch]
+*iOS*
 
-==== Xamarin
+xref:standalone@userprofile-couchbase-mobile:userprofile:userprofile_basic.adoc[Standalone]|xref:query@userprofile-couchbase-mobile:userprofile:userprofile_query.adoc[Query]|xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]|xref:backgroundfetch@userprofile-couchbase-mobile:userprofile:background-fetch.adoc[Background fetch]
 
-[.links]
-xref:standalone@userprofile-couchbase-mobile-xamarin:userprofile:xamarin/userprofile_basic.adoc[Standalone]
-xref:query@userprofile-couchbase-mobile-xamarin:userprofile:xamarin/userprofile_query.adoc[Query]
+*Xamarin*
+
+xref:standalone@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_basic.adoc[Standalone]|xref:query@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_query.adoc[Query]
 
 ===== {empty}
 
