@@ -7,7 +7,7 @@
 == Mobile Developer
 
 [.title]
-=== xref:tutorials:mobile-travel-sample:introduction.adoc[Travel Sample Mobile]
+=== xref:tutorials:mobile-travel-sample:introduction.adoc[Couchbase Mobile Workshop]
 
 ==== {empty}
 
@@ -16,7 +16,7 @@ An in-depth walkthrough of the Couchbase Mobile capabilities on iOS, Android and
 At the end of this multi-part tutorial, you should have a good understanding of how to architect a solution using Couchbase Mobile, including data modeling, sync, access control, channels, database CRUD and the query API in Couchbase Mobile.
 [.links]
 xref:tutorials:mobile-travel-sample:swift/installation/index.adoc[iOS]
-xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Java]
+xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Android]
 
 ===== {empty}
 
@@ -151,7 +151,7 @@ This tutorial discusses how you can use iOS Background App Refresh capability to
 == Mobile Developer
 
 [.title]
-=== Building a Cordova Plugin
+=== Building a Cordova Plugin with Couchbase Lite
 
 ==== {empty}
 [.summary]
@@ -177,7 +177,7 @@ xref:tutorials:hotel-lister:android.adoc[Java]
 == Mobile Developer
 
 [.title]
-=== Building a React Native Module
+=== Building a React Native Module with Couchbase Lite
 
 ==== {empty}
 [.summary]
@@ -202,7 +202,7 @@ xref:tutorials:hotel-finder:android.adoc[Java]
 == Mobile Developer
 
 [.title]
-=== xref:tutorials:university-lister:android.adoc[Recycler Views with Live Queries]
+=== xref:tutorials:university-lister:android.adoc[Android Recycler Views with Couchbase Lite]
 
 ==== {empty}
 [.summary]
