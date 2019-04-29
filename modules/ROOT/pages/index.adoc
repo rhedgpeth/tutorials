@@ -12,7 +12,8 @@
 ==== {empty}
 
 [.summary]
-A multi-part tutorial that demonstrates core Couchbase Mobile capabilities on the iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app allows users to search for and to make flight reservations via web and mobile clients. At the end of this tutorial, you should have a good understanding of the sync, access control, channels, database CRUD and query API work in Couchbase Mobile
+An in-depth walkthrough of the Couchbase Mobile capabilities on iOS, Android and .NET (UWP and Xamarin) platforms.
+At the end of this multi-part tutorial, you should have a good understanding of how to architect a solution using Couchbase Mobile, including data modeling, sync, access control, channels, database CRUD and the query API in Couchbase Mobile.
 [.links]
 xref:tutorials:mobile-travel-sample:swift/installation/index.adoc[iOS]
 xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Java]
