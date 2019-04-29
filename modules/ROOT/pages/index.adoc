@@ -12,10 +12,10 @@
 ==== {empty}
 
 [.summary]
-An in-depth tutorial that demonstrates key end-to-end Couchbase Mobile 2.0 capabilities for iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app will allow users to search for and to make flight reservations Shared bucket access is enabled to allow web and mobile clients to perform the same operations on the bucket.
+A multi-part tutorial that demonstrates core Couchbase Mobile capabilities on the iOS, Android and .NET (UWP and Xamarin) platforms. The Travel Sample app allows users to search for and to make flight reservations via web and mobile clients. At the end of this tutorial, you should have a good understanding of the sync, access control, channels, database CRUD and query API work in Couchbase Mobile
 [.links]
-xref:tutorials:mobile-travel-sample:swift/design/data-modeling.adoc[iOS]
-xref:tutorials:mobile-travel-sample:java/design/data-modeling.adoc[Java]
+xref:tutorials:mobile-travel-sample:swift/installation/index.adoc[iOS]
+xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Java]
 
 ===== {empty}
 
