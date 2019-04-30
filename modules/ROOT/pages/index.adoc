@@ -18,6 +18,7 @@ At the end of this multi-part tutorial, you should have a good understanding of 
 [.links]
 xref:tutorials:mobile-travel-sample:swift/installation/index.adoc[iOS]
 xref:tutorials:mobile-travel-sample:java/installation/index.adoc[Android]
+xref:tutorials:mobile-travel-sample:csharp/installation/index.adoc[.NET]
 
 ===== {empty}
 
