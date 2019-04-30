@@ -2,6 +2,7 @@
 :page-layout: tutorials
 :page-role: tiles
 :!sectids:
+:page-aliases: couchbase-lite::samples
 
 [.developer]
 == Mobile Developer
