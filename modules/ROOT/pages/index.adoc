@@ -269,3 +269,29 @@ A Xcode Playground to demonstrate and explore the Query interface in Couchbase L
 [.metadata]
 === Beginner
 
+
+
+
+[.developer]
+== Developer
+
+[.title]
+=== xref:tutorials:spring-data-indexes:spring-index.adoc[Boosting Spring Data Performance with Couchbase]
+
+==== {empty}
+
+[.summary]
+Spring Data provides an easy programming model for data access in both relational and non-relational databases. It became very popular among Java/JVM developers because of the small learning curve and low codebase.
+
+However, developers quite often run into performance issues while using it, this tutorial aims to explain some of the common problems and how to fix them.
+
+===== {empty}
+
+====== Components
+* Spring Data
+
+====== Languages
+* Java
+
+[.metadata]
+=== Intermediate
