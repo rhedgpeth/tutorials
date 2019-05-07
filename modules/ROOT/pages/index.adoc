@@ -107,10 +107,12 @@ The series of tutorials demonstrates the core capabilities of Couchbase Mobile w
 
 * "Standalone": database and CRUD operations.
 * "Query": querying capabilities.
+* "Sync": use of Sync Gateway for data sync between clients.
 
 [.links]
 xref:standalone@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_basic.adoc[Standalone]
 xref:query@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_query.adoc[Query]
+xref:sync@userprofile-couchbase-mobile:userprofile:xamarin/userprofile_sync.adoc[Query]
 
 ===== {empty}
 
