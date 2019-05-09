@@ -272,8 +272,6 @@ A Xcode Playground to demonstrate and explore the Query interface in Couchbase L
 === Beginner
 
 
-
-
 [.developer]
 == Developer
 
@@ -297,3 +295,25 @@ However, developers quite often run into performance issues while using it, this
 
 [.metadata]
 === Intermediate
+
+[.developer]
+== Developer
+
+[.title]
+=== xref:tutorials:tutorial-template:sample.adoc[Build Your Own Tutorial]
+
+==== {empty}
+
+[.summary]
+Want to build your own tutorial for the Couchbase Tutorials Site? Take a look at our tutorial template that provides a template and walks you through the process.
+
+===== {empty}
+
+====== Components
+* Tutorials
+
+====== Languages
+* AsciiDoc
+
+[.metadata]
+=== Beginner

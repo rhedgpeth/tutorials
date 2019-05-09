@@ -15,3 +15,7 @@ include::hotel-lister:partial$nav.adoc[]
 include::hotel-finder:partial$nav.adoc[]
 * Todo App (Mobile 1.x)
 include::todo-app:partial$nav.adoc[]
+
+.Build Your Own
+* Tutorial Template
+include::tutorial-template:partial$nav.adoc[]
