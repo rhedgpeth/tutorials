@@ -23,9 +23,9 @@ xref:tutorials:mobile-travel-sample:csharp/installation/index.adoc[.NET]
 ===== {empty}
 
 ====== Components
-* Server 5.5
-* Lite 2.1
-* Sync Gateway 2.1
+* Server 6.0.1
+* Lite 2.5
+* Sync Gateway 2.5
 
 ====== Languages
 * Swift
