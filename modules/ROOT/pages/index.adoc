@@ -98,6 +98,35 @@ xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
 == Mobile Developer
 
 [.title]
+=== Getting Started with Couchbase Mobile on Android
+
+==== {empty}
+
+[.summary]
+The series of tutorials demonstrates the core capabilities of Couchbase Mobile with an Android app:
+
+* "Standalone": database and CRUD operations.
+
+[.links]
+xref:standalone@userprofile-couchbase-mobile:userprofile:android/userprofile_basic.adoc[Standalone]
+
+===== {empty}
+
+====== Components
+* Server 5.5
+* Lite 2.1
+* Sync Gateway 2.1
+
+====== Languages
+* Java
+
+[.metadata]
+=== Beginner
+
+[.developer]
+== Mobile Developer
+
+[.title]
 === Getting Started with Couchbase Mobile on Xamarin
 
 ==== {empty}
