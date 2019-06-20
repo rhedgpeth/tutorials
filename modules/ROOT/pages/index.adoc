@@ -21,8 +21,6 @@ xref:tutorials:customer-360:ingestion.adoc[Retail]
 ====== Components 
 * Server 6.0
 * Kafka
-* MySQL
-* PostgreSQL
 * Docker
 
 ====== Languages 
