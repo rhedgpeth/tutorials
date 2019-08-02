@@ -131,16 +131,20 @@ xref:sync@userprofile-couchbase-mobile:userprofile:userprofile_sync.adoc[Sync]
 The series of tutorials demonstrates the core capabilities of Couchbase Mobile with an Android app:
 
 * "Standalone": database and CRUD operations.
+* "Query": querying capabilities.
+* "Sync": use of Sync Gateway for data sync between clients.
 
 [.links]
 xref:standalone@userprofile-couchbase-mobile:userprofile:android/userprofile_basic.adoc[Standalone]
+xref:query@userprofile-couchbase-mobile:userprofile:android/userprofile_query.adoc[Query]
+xref:sync@userprofile-couchbase-mobile:userprofile:android/userprofile_sync.adoc[Sync]
 
 ===== {empty}
 
 ====== Components
 * Server 5.5
-* Lite 2.1
-* Sync Gateway 2.1
+* Lite 2.5
+* Sync Gateway 2.5
 
 ====== Languages
 * Java
